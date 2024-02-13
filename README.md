@@ -1,6 +1,6 @@
 # HI! Im Ramdhan Irawan Frontend Developer Student At SMKN2 SUKABUMI 👋
 
-👋 Hello! Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ### About Me
 
