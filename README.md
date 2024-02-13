@@ -4,35 +4,25 @@ Welcome to my GitHub profile!
 
 ### About Me
 
-- 🎓 [Saya seorang pelajar yang ingin belajar dan ingin mengetahui hal hal yang baru]
-- 💼 [Your current job/role, if applicable]
-- 🌱 I’m currently learning [mention what you're learning or interested in]
-- 💬 Ask me about [topics you're knowledgeable about]
+- 🎓 I am a student who wants to learn and wants to know new things
+- 🌱 I’m currently learning ReacJS
+- 💬 Ask me about everything
 
 ### My Interests
 
-- 🚀 [Interest 1]
-- 📚 [Interest 2]
-- 🎨 [Interest 3]
+- 🎼 Music
+- 🏸 Badminton
 
 ### Find Me Online
 
--  [Instagram](https://twitter.com/your_username)
-- 💼 [LinkedIn](https://linkedin.com/in/your_username)
+- 🤳 [Instagram](https://www.instagram.com/mramdhan_dani/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dani-daniii-b4097b260/)
 - 🌐 [Personal Website/Blog](https://eldazy.vercel.app/)
 
-### My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
 
-### Projects
-
-- [Project 1](https://github.com/your_username/project1) - Description
-- [Project 2](https://github.com/your_username/project2) - Description
-- [Project 3](https://github.com/your_username/project3) - Description
 
 Feel free to explore my repositories and reach out to collaborate or ask any questions! 😊
