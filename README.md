@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ### About Me
 
-- 🎓 [Your education, if applicable]
+- 🎓 [Saya seorang pelajar yang ingin belajar dan ingin mengetahui hal hal yang baru]
 - 💼 [Your current job/role, if applicable]
 - 🌱 I’m currently learning [mention what you're learning or interested in]
 - 💬 Ask me about [topics you're knowledgeable about]
