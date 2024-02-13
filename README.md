@@ -1,6 +1,6 @@
-# Ramdhan Irawan
+# HI! Im Ramdhan Irawan Frontend Developer Student At SMKN2 SUKABUMI 👋
 
-👋 Hello! Welcome to my GitHub profile! I'm passionate about [https://eldazy.vercel.app/].
+👋 Hello! Welcome to my GitHub profile!
 
 ### About Me
 
@@ -17,9 +17,9 @@
 
 ### Find Me Online
 
-- 🐦 [Twitter](https://twitter.com/your_username)
+-  [Instagram](https://twitter.com/your_username)
 - 💼 [LinkedIn](https://linkedin.com/in/your_username)
-- 🌐 [Personal Website/Blog](https://yourwebsite.com)
+- 🌐 [Personal Website/Blog](https://eldazy.vercel.app/)
 
 ### My GitHub Stats
 
