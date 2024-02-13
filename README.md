@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 ### About Me
 
 - 🎓 I am a student who wants to learn and wants to know new things
-- 🌱 I’m currently learning ReacJS
 - 💬 Ask me about everything
 
 ### My Interests
