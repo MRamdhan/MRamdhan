@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - 🏸 Badminton
 
 ### Tools
-[](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg)
+https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg
 
 ### Find Me Online
 
