@@ -31,9 +31,10 @@ Welcome to my GitHub profile!
   -
   <img align="center" width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" />
   <img align="center" width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" / >
-  <img align="center" width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" / >
-  <img align="center" width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" / >
+  <img align="center" width="80" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" / >
+  <img align="center" width="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" / >
   <img align="center" width="60" src="https://logotyp.us/file/figma.svg" / >
+  <img align="center" width="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" / >
 ### Find Me Online
 
 - 🤳 [Instagram](https://www.instagram.com/mramdhan_dani/)
