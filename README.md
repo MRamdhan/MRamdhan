@@ -40,7 +40,7 @@ Welcome to my GitHub profile!
 
 - 🤳 [Instagram](https://www.instagram.com/mramdhan_dani/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dani-daniii-b4097b260/)
-- 🌐 [Personal Website/Blog](https://eldazy.vercel.app/)
+- 🌐 [Personal Website/Blog](https://mramdhan.github.io/Portfolio-V2/)
 
 
 Feel free to explore my repositories and reach out to collaborate or ask any questions! 😊
