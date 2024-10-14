@@ -22,6 +22,7 @@ Welcome to my GitHub profile!
     <img align="center" width="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" />
     <img align="center" width="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" />
     <img align="center" width="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
+    <img align="center" width="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
 - FrameWorks
   -
     <img align="center" width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" />
