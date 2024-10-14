@@ -36,11 +36,17 @@ Welcome to my GitHub profile!
   <img align="center" width="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" / >
   <img align="center" width="60" src="https://logotyp.us/file/figma.svg" / >
   <img align="center" width="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" / >
-### Find Me Online
 
-- 🤳 [Instagram](https://www.instagram.com/mramdhan_dani/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dani-daniii-b4097b260/)
-- 🌐 [Personal Website/Blog](https://mramdhan.github.io/Portfolio-V2/)
-
-
-Feel free to explore my repositories and reach out to collaborate or ask any questions! 😊
+### <summary><strong>Connect!</strong></summary>
+</br>
+<a href="https://www.linkedin.com/in/dani-daniii-b4097b260/">
+  <img align="left" alt="linkedin" width="20px" src="https://simpleicons.vercel.app/linkedin/495f7e" />
+</a>
+<a href="https://www.instagram.com/mramdhan_dani/">
+  <img align="left" alt="Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://mramdhan.github.io/Portfolio-V2/">
+  <img align="left" alt="portfolio" width="20px" src="https://simpleicons.vercel.app/instatus/495f7e" />
+</a>
+</Br>
+<hr>
