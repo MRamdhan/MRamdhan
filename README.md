@@ -51,15 +51,15 @@ I'm an enthusiastic **student developer** passionate about continuous learning a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mramdhan&show_icons=true&theme=gruvbox&hide_border=true" alt="MRamdhan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mramdhan&show_icons=true&theme=radical&hide_border=true" alt="MRamdhan's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mramdhan&theme=gruvbox&hide_border=true" alt="MRamdhan's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mramdhan&theme=radical&hide_border=true" alt="MRamdhan's GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramdhan&layout=compact&theme=gruvbox&hide_border=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramdhan&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
 </p>
 
 ---
