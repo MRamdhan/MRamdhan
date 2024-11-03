@@ -64,7 +64,7 @@ I'm an enthusiastic **student developer** passionate about continuous learning a
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Lets Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dani-daniii-b4097b260/">
