@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm an enthusiastic **student developer** passionate about continuous learning and solving problems with creative code. I enjoy working with modern web technologies and exploring new ways to build awesome digital experiences.
+I'm an enthusiastic **student web developer** passionate about continuous learning and solving problems with creative code. I enjoy working with modern web technologies and exploring new ways to build awesome digital experiences.
 
 - 🌱 I’m currently learning **full-stack web development**.
 - 💬 Feel free to ask me about **JavaScript, PHP, Python**, or **Java**.
