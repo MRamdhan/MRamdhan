@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/708874f8-ddd3-45f0-9532-f44fbff5d916)<h1 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
   <img src="https://readme-typing-svg.demolab.com?Archivo+Black&display=swap&weight=500&size=40&pause=1000&color=494CFF&random=false&width=435&lines=MRamdhan+Irawan" alt="Typing Name">
 </h1>
