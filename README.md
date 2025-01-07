@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/708874f8-ddd3-45f0-9532-f44fbff5d916)<h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
   <img src="https://readme-typing-svg.demolab.com?Archivo+Black&display=swap&weight=500&size=40&pause=1000&color=494CFF&random=false&width=435&lines=MRamdhan+Irawan" alt="Typing Name">
 </h1>
@@ -68,7 +68,7 @@ I'm an enthusiastic **student web developer** passionate about continuous learni
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mochamad-ramdhan-irawan/>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=16&origin=tag&related_id=174857" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/mramdhan_dani/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
