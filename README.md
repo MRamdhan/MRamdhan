@@ -67,7 +67,7 @@ I'm an enthusiastic **student web developer** passionate about continuous learni
 ## 🌐 Lets Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/mochamad-ramdhan-irawan">
+  <a href="https://www.linkedin.com/in/mochamad-ramdhan-irawan/>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/mramdhan_dani/">
